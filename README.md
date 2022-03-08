@@ -1,7 +1,7 @@
 # baaz-application
 baaz tools 🧰 
 -
-<img src="/baaz.png"></img>
+<img src="/baaz1.png"></img>
 Brute Force and Reporting 🕊
 -
 Tool features :
