@@ -12,7 +12,7 @@ Tool features :
 install in kali linux :
 <!--START_SECTION:waka-->
 ```
-sudo git clone https://github.com/vv1ck/Cleaning-TikTok
+sudo git clone https://github.com/vv1ck/baaz-application
 ```
 <!--END_SECTION:waka-->
 
@@ -24,16 +24,16 @@ pip install requests
 pip install threading
 ```
 <!--END_SECTION:waka-->
------------------------
 <!--START_SECTION:waka-->
 ```
-cd Cleaning-TikTok
+cd baaz-application
 ```
 <!--END_SECTION:waka-->
+-----------------------
 - Then run the tool :
 <!--START_SECTION:waka-->
 ```
-python3 Cleaning.py
+python3 Start.py
 ```
 <!--END_SECTION:waka-->
 ---------------------
